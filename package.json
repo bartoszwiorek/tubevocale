@@ -1,0 +1,12 @@
+{
+  "name": "tubevocale",
+  "description": "Easily switch YouTube video audio to your preferred language without affecting the site interface.",
+  "author": {
+    "email": "bartoszwiorek+github@gmail.com",
+    "name": "Bartosz Wiorek",
+    "url": "https://wiorek.net"
+  },
+  "version": "1.0.0",
+  "main": "./index.js",
+  "dependencies": {}
+}
