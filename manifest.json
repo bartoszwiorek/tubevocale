@@ -3,7 +3,7 @@
   "name": "TubeVocale",
   "version": "1.0",
   "description": "Switch the audio of mobile YouTube videos to your preferred language, without affecting the interface.",
-  "permissions": ["storage", "tabs", "scripting", "storage"],
+  "permissions": ["storage", "tabs", "scripting"],
   "author": "Bartosz Wiorek",
   "icons": {
     "48": "icons/icon-48.png",
