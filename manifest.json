@@ -1,32 +1,30 @@
 {
   "manifest_version": 3,
-  "name": "tubevocale",
+  "name": "TubeVocale",
   "version": "1.0",
-  "description": "Easily switch YouTube video audio to your preferred language without affecting the site interface.",
-  "permissions": ["storage", "tabs", "scripting"],
+  "description": "Switch the audio of mobile YouTube videos to your preferred language, without affecting the interface.",
+  "permissions": ["storage", "tabs", "scripting", "storage"],
   "author": "Bartosz Wiorek",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png"
   },
-  "host_permissions": ["*://*.youtube.com/*"],
+  "host_permissions": ["*://m.youtube.com/watch*"],
   "content_scripts": [
     {
-      "matches": ["*://*.youtube.com/watch*"],
-      "js": ["index.js"]
+      "matches": ["*://m.youtube.com/watch*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
     }
   ],
   "action": {
-    "default_title": "YouTube Language Switcher"
+    "default_title": "TubeVocale",
+    "default_popup": "popup.html"
   },
   "browser_specific_settings": {
     "gecko": {
       "id": "@tubevocale",
-      "strict_min_version": "109.0"
-    },
-    "gecko_android": {
-      "id": "@tubevocale",
-      "strict_min_version": "110.0"
+      "strict_min_version": "113.0"
     }
   }
 }

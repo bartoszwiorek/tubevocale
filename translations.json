@@ -1,0 +1,56 @@
+{
+  "en": {
+    "heading": "Select Preferred Language",
+    "description": "Choose the language you want YouTube player to use for audio. Your selection will apply to all videos.",
+    "savedMessage": "Saved!",
+    "mobileNotice": "⚠ This extension works only for the mobile version of the YouTube website."
+  },
+  "fr": {
+    "heading": "Choisir la langue préférée",
+    "description": "Choisissez la langue que vous voulez que le lecteur YouTube utilise pour l'audio. Votre sélection s'appliquera à toutes les vidéos.",
+    "savedMessage": "Enregistré !",
+    "mobileNotice": "⚠ Cette extension fonctionne uniquement pour la version mobile du site YouTube."
+  },
+  "pl": {
+    "heading": "Wybierz preferowany język",
+    "description": "Wybierz język, którego ma używać odtwarzacz YouTube dla audio. Twój wybór będzie stosowany do wszystkich filmów.",
+    "savedMessage": "Zapisano!",
+    "mobileNotice": "⚠ To rozszerzenie działa tylko na mobilnej wersji serwisu YouTube."
+  },
+  "hi": {
+    "heading": "पसंदीदा भाषा चुनें",
+    "description": "उस भाषा का चयन करें जिसे आप YouTube प्लेयर ऑडियो के लिए उपयोग करना चाहते हैं। आपका चयन सभी वीडियो पर लागू होगा।",
+    "savedMessage": "सहेजा गया!",
+    "mobileNotice": "⚠ यह एक्सटेंशन केवल YouTube वेबसाइट के मोबाइल संस्करण पर काम करता है।"
+  },
+  "es-US": {
+    "heading": "Seleccionar idioma preferido",
+    "description": "Elija el idioma que desea que el reproductor de YouTube use para el audio. Su selección se aplicará a todos los videos.",
+    "savedMessage": "¡Guardado!",
+    "mobileNotice": "⚠ Esta extensión solo funciona en la versión móvil del sitio web de YouTube."
+  },
+  "id": {
+    "heading": "Pilih Bahasa Favorit",
+    "description": "Pilih bahasa yang ingin Anda gunakan pemutar YouTube untuk audio. Pilihan Anda akan berlaku untuk semua video.",
+    "savedMessage": "Tersimpan!",
+    "mobileNotice": "⚠ Ekstensi ini hanya berfungsi untuk versi seluler situs YouTube."
+  },
+  "ja": {
+    "heading": "優先言語を選択",
+    "description": "YouTubeプレーヤーで使用するオーディオの言語を選択してください。選択はすべての動画に適用されます。",
+    "savedMessage": "保存されました！",
+    "mobileNotice": "⚠ この拡張機能はYouTubeサイトのモバイル版でのみ動作します。"
+  },
+  "pt-BR": {
+    "heading": "Selecione o idioma preferido",
+    "description": "Escolha o idioma que você deseja que o player do YouTube use para áudio. Sua seleção será aplicada a todos os vídeos.",
+    "savedMessage": "Salvo!",
+    "mobileNotice": "⚠ Esta extensão funciona apenas na versão móvel do site do YouTube."
+  },
+  "it": {
+    "heading": "Seleziona la lingua preferita",
+    "description": "Scegli la lingua che vuoi che il lettore di YouTube utilizzi per l'audio. La tua selezione sarà applicata a tutti i video.",
+    "savedMessage": "Salvato!",
+    "mobileNotice": "⚠ Questa estensione funziona solo nella versione mobile del sito YouTube."
+  }
+}
